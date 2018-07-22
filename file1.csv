@@ -1,0 +1,69 @@
+Bank name,Interest Type,Interest Rate (5-20 lakhs),Intesrest Rate (20-30 lakhs)
+ICICI Bank,Floating,8.75,8.75
+ICICI Bank - Special Scheme,Floating,8.25,8.25
+ICICI Bank,Fixed,16,16
+HDFC,Floating,8.75,8.75
+HDFC,Fixed,14.25,14.25
+HDFC - Special Scheme,Floating,8.25,8.25
+SBI Advantage Home Loan,Fixed,NA,NA
+SBI - Home Loan,Fixed,8,8
+SBI - Home Loan,Floating,8,8
+SBI Advantage Home Loan,Floating,NA,NA
+SBI,Floating,9.75,9.75
+Axis Bank,Floating,8.75,8.75
+Axis Bank,Fixed,14,14
+Bank of Baroda,Floating,9,9
+Union Bank of India,Floating,9.5,9.5
+LIC Fix-o-Floaty,Floating,8.9,8.9
+LIC Housing Finance,Floating,9.75,9.75
+Central Bank of India,Floating,9.75,9.75
+IDBI Home Finance,Floating,8.25,8.25
+Bank of India - Floating,Floating,9.25,9.25
+Kotak Bank,Floating,8.5,8.5
+Reliance Home Finance,Floating,9.25,9.25
+IDBI Bank,Fixed,11,11
+PNB Housing Finance Ltd,Floating,9.5,10
+PNB Housing Finance Ltd,Fixed,13,13
+GIC Housing Finance,Fixed,15,15
+GIC Housing Finance,Floating,10.5,10.5
+Dena Bank,Floating,9.75,9.75
+Dena Bank,Fixed,10.75,11
+Allahabad Bank,Fixed,12.25,12.25
+Allahabad Bank,Floating,9.25,10
+Andhra Bank,Floating,9.75,10.5
+Canara Bank,Fixed,11.5,11.5
+Canara Bank,Floating,9.25,9.25
+Bank of Maharashtra,Floating,9,9
+Bank of Rajasthan,Fixed,9.5,9.5
+Bank of Rajasthan,Floating,8,8
+Punjab National Bank,Fixed,10.5,10.75
+Punjab National Bank,Floating,9.25,9.75
+Oriental Bank of Commerce,Floating,9.25,9.5
+Oriental Bank of Commerce,Fixed,10.25,10.5
+Federal Bank,Floating,8.5,8.5
+Federal Bank,Fixed,9.5,9.5
+Catholic Syrian Bank,Floating,11,13
+Vijaya Bank,Floating,10,10
+State Bank of Mysore,Floating,9.5,9.5
+Indian Bank,Fixed,10.75,10.75
+Indian Bank,Floating,10.5,10
+Indian Overseas Bank,Floating,8.75,8.75
+State Bank of Patiala,Floating,9.25,9.25
+Deutsche Postbank - Scheme I,Floating,8.75,8.75
+Deutsche Postbank - New Fixed Floating Scheme,Floating,8.75,8.75
+Corporation Bank,Floating,9.75,9.75
+Corporation Bank,Fixed,11,11
+Syndicate Bank,Floating,8.75,9.5
+J & K Bank,Floating,11.5,12.25
+DCB,Floating,8.75,8.75
+Punjab & Sind Bank,Floating,10,10.25
+State Bank of Bikaner& Jaipur,Floating,9.75,9.75
+State Bank of Hyderabad,Floating,9.5,9.5
+State Bank of Hyderabad - Special Scheme,Floating,8.5,8.5
+State Bank of Indore,Floating,9.75,9.75
+State Bank of Travancore,Floating,9.75,9.75
+United Bank of India,Fixed,10,11
+United Bank of India,Floating,9.5,9.75
+Dhanalakshmi Bank Ltd,Floating,12,13
+South Indian Bank,Fixed,12.75,12.75
+South Indian Bank,Floating,11.75,11.75
